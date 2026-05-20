@@ -1,0 +1,6 @@
+{
+  "name": "A4 Write",
+  "description": "Realistic A4 page-styled document editor with rich styling, folder management, templates, auto-save, PDF exports, and AI-powered grammar support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
